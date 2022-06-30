@@ -1,4 +1,18 @@
-### Hi there 👋
+### Привет 👋
+
+Меня зовут Наиль и я являюсь начинающим Back-end разработчиком.
+
+Мой стек:
+
+• Java Spring Framework, Maven Apache;
+
+• JUNIT, JSON, log4j, JDBC Template;
+
+• собираю проекты используя Tomcat Apache;
+
+• система контроля версий Git;
+
+• работаю с базами данных с помощью MySQL, PostgreSQL .
 
 <!--
 **NailGafiyatov/NailGafiyatov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
