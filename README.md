@@ -10,6 +10,9 @@ My stack:
 
 • JUNIT, JSON, log4j, JDBC Template, Hibernate.
 
+As a hobby, I created a Software engineer token in the Solidity language, which you can find on the BSCScan website (the official portal for tracking crypto transactions and getting to know projects) at the link: https://bscscan.com/token/0x4c40f01e21ee29cb2c97112c602227c645a4f3ab. Details in the read.me of the project
+
+
 <!--
 **NailGafiyatov/NailGafiyatov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
