@@ -10,7 +10,9 @@ My stack:
 
 • JUNIT, JSON, log4j, JDBC Template, Hibernate.
 
-As a hobby, I created a Software engineer token in the Solidity language, which you can find on the BSCScan website (the official portal for tracking crypto transactions and getting to know projects) at the link: https://bscscan.com/token/0x4c40f01e21ee29cb2c97112c602227c645a4f3ab. You can replenish the liquidity pool in the SET/BNB pair or in any pair with SET using the link: https://pancakeswap.finance/add/0x4C40f01e21Ee29cb2C97112C602227c645a4F3Ab/BNB
+Improving my algorithms skills on [leetcode](https://leetcode.com/Nail_Gafiyatov/)
+
+As a hobby, I created a Software engineer token in the Solidity language, which you can find on the BSCScan website (the official portal for tracking crypto transactions and getting to know projects) at the [link](https://bscscan.com/token/0x4c40f01e21ee29cb2c97112c602227c645a4f3ab). You can replenish the liquidity pool in the SET/BNB pair or in any pair with SET using the [link](https://pancakeswap.finance/add/0x4C40f01e21Ee29cb2C97112C602227c645a4F3Ab/BNB).
 
 Details in the read.me of the project
 
