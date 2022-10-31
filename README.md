@@ -8,7 +8,7 @@ My stack:
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-• JUNIT, JSON, log4j, JDBC Template, Hibernate.
+• JUNIT, JSON, log4j, JDBC Template, Hibernate, Docker, RabbitMQ.
 
 Improving my algorithms skills on [leetcode](https://leetcode.com/Nail_Gafiyatov/)
 
